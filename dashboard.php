@@ -62,7 +62,7 @@ try {
 
         <div class="card-grid">
             <div class="card">
-                <h3>Total Pemasukan Harian</h3>
+                <h3>Total Pemasukan </h3>
                 <div class="value" style="color: var(--success);">Rp <?= number_format($total_masuk, 0, ',', '.'); ?></div>
             </div>
 
